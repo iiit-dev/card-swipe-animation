@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "react-expo-app",
-    "slug": "react-expo-app",
+    "name": "Card Swipe App",
+    "slug": "card-swipe-app",
     "version": "1.0.0",
+    "description": "",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./Media/react-logo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image":"./Media/simple-splash-screen.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,12 +17,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage":"./Media/simple-splash-screen.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon":"./Media/react-logo.png"
     }
   }
 }
